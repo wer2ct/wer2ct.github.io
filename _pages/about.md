@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -26,5 +25,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+This personal website is still a work in progress. Check back soon for something that looks a lot nicer!
 
-I'm a 4th year undergraduate at the University of Virginia studying physics. 
+I'm a 4th year undergraduate at the University of Virginia studying physics. My research is focused on searching for new physics in next-generation dark matter and neutrino experiments! 
