@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Physics Undergraduate @ the University of Virginia
 
 profile:
   align: right
   image: profile.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>382 McCormick Rd</p>
+    <p>Charlottesville, VA 22904</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -27,8 +26,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I currently am a 4th year undergraduate studying physics at the [University of Virginia](https://www.phys.virginia.edu/). This fall, I am excited to be starting my PhD in physics at [MIT](https://physics.mit.edu/) as a [Dean of Science Fellow](https://science.mit.edu/about/awards/deans-fellowship-program/). I will also be supported through the [NSF's Graduate Research Fellowship Program](https://www.nsfgrfp.org/). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests are concentrated in experimental particle physics, particularly non-collider searches for dark matter and new physics involving neutrinos. As an undergraduate I have contributed to [Mu2e](https://mu2e.fnal.gov/), [LDMX](https://arxiv.org/pdf/2508.11833), and [DUNE](https://www.dunescience.org/). I also spent a little bit of time in an AMO lab - ask me about Rydberg atoms and precision measurement! Although my research home is UVA, I have spent a lot of time at Stanford/SLAC as an intern and visiting student on various projects. You can find more details about my work on all these under the research tab, as well as a full list of my publications and presentations. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+A throughline in my research work so far as been utilizing machine learning techniques to improve how we reconstruct events and make selection cuts in experiments. I am also interested in hardware and detector technology, and particularly the ways in which particle physics can utilize developments in AMO, condensed matter, and quantum information to improve our precision measurement capabilities. New physics the in the coming decade may emerge from high energy and luminosity experiments, but it just as well may pop up in the sub-eV regime. I hope to contribute to exploration across both scales in my career. 
+
+Outside of research, I enjoy rock climbing, running, basketball, and reading works of non-fiction. I also minored in philosophy as an undergraduate (obnoxious I know), and thoroughly enjoy discussing topics in that discipline. 
+
