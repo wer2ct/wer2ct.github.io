@@ -9,8 +9,9 @@ profile:
   image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>The Golden Gate after a week-long fight with Karl</p>
+    <p>The Golden Gate</p>
     <p>SF, Summer 2024</p>
+    <p> (after a fight with Karl) </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
