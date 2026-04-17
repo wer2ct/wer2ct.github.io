@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: April 2026
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+First [LDMX LLPs sensitivity paper on arXiv, submitted to JHEP](https://arxiv.org/abs/2604.14359). This is one of the main projects I worked on as an undergraduate. Check it out! 
