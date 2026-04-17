@@ -16,8 +16,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+        },{id: "news-paper-detailing-recent-beamline-commissioning-for-ldmx-on-arxiv-and-submitted-to-nim-a-i-worked-on-this-project-while-visiting-slac-in-2024",
+          title: 'Paper detailing recent beamline commissioning for LDMX on arXiv and submitted to NIM-A....',
           description: "",
           section: "News",},{id: "news-i-was-awarded-the-nsf-graduate-research-fellowship",
           title: 'I was awarded the NSF Graduate Research Fellowship!',
