@@ -19,12 +19,10 @@ ninja.data = [{
         },{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "news-announcement-2",
-          title: 'Announcement_2',
+          section: "News",},{id: "news-i-was-awarded-the-nsf-graduate-research-fellowship",
+          title: 'I was awarded the NSF Graduate Research Fellowship!',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-first-ldmx-llps-sensitivity-paper-on-arxiv-submitted-to-jhep-this-is-one-of-the-main-projects-i-worked-on-as-an-undergraduate-check-it-out",
+          section: "News",},{id: "news-first-ldmx-llps-sensitivity-paper-on-arxiv-submitted-to-jhep-this-is-one-of-the-main-projects-i-worked-on-as-an-undergraduate-check-it-out",
           title: 'First LDMX LLPs sensitivity paper on arXiv, submitted to JHEP. This is one...',
           description: "",
           section: "News",},{id: "projects-project-1",
