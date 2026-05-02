@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Physics Undergraduate @ the University of Virginia
+subtitle: Incoming Physics PhD Student @ MIT
 
 profile:
   align: right
