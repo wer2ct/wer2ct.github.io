@@ -6,7 +6,7 @@ subtitle: Incoming Physics PhD Student @ MIT
 
 profile:
   align: right
-  image: profile_new.PNG
+  image: profile_new.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
