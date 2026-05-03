@@ -9,7 +9,7 @@ profile:
   image: profile_new.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Me @ UVA</p>
+
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
