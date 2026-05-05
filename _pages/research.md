@@ -15,9 +15,13 @@ As I wrap up my time at UVA, I am focused on finishing some analysis efforts for
 
 ### <strong> Previously </strong>
 
+<hr class="mt-3">
+
 Soon!
 
 ### <strong> Presentations </strong>
+
+<hr class="mt-3">
 
 {% assign sorted_talks = site.presentations | sort: "date" | reverse %}
 
