@@ -16,3 +16,28 @@ As I wrap up my time at UVA, I am focused on finishing some analysis efforts for
 ### <strong> Previously </strong>
 
 Soon!
+
+### <strong> Presentations </strong>
+
+{% assign sorted_talks = site.presentations | sort: "date" | reverse %}
+
+<ul>
+{% for talk in sorted_talks %}
+  <li>
+   <em>"{{ talk.title }}"</em> @ {{ talk.venue }}
+    {% if talk.slides or talk.poster %}
+      ({% if talk.slides %}
+       <a href="{{ talk.slides | relative_url }}">slides</a>
+      {% endif %}
+      {% if talk.slides and talk.poster %}
+        |
+      {% endif %}
+      {% if talk.poster %}
+       <a href="{{ talk.poster | relative_url }}">poster</a>
+      {% endif %})
+    {% else %}
+      (deliverables not included)
+    {% endif %}
+  </li>
+{% endfor %}
+</ul>
