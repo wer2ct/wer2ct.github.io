@@ -41,7 +41,37 @@ ninja.data = [{
           section: "News",},{id: "news-a-cool-ml-project-i-worked-on-towards-the-end-of-high-school-and-in-my-first-few-months-at-uva-was-published-in-aj-check-out-astronomical-image-time-series-segmentation-for-faint-fast-object-detection-a-huge-congrats-to-dan-and-the-team-for-making-this-one-a-reality",
           title: 'A cool ML project I worked on towards the end of high school...',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "presentations-sesaps-2023-ldmx-the-light-dark-matter-experiment",
+          title: 'SESAPS 2023: LDMX - The Light Dark Matter eXperiment',
+          description: "My first conference presentation! Overview of early LDMX work including the ill-fated intermediate BDT",
+          section: "Presentations",handler: () => {
+              window.location.href = "/presentations/sesaps_23/";
+            },},{id: "presentations-vas-2024-ldmx-the-light-dark-matter-experiment",
+          title: 'VAS 2024: LDMX - The Light Dark Matter eXperiment',
+          description: "Introduction to LDMX and the target-as-target LLPs search. This talk won best undergraduate presentation in the physics, astronomy, and math section!",
+          section: "Presentations",handler: () => {
+              window.location.href = "/presentations/vas_24/";
+            },},{id: "presentations-sesaps-2024-hunting-for-dark-matter-with-ldmx",
+          title: 'SESAPS 2024: Hunting for Dark Matter with LDMX',
+          description: "Another LDMX talk, this time with improved LLP search results. This talk won best undergraduate oral presentation!",
+          section: "Presentations",handler: () => {
+              window.location.href = "/presentations/sesaps_24/";
+            },},{id: "presentations-sigma-pi-sigma-symposium-2024-hunting-for-dark-matter-with-ldmx",
+          title: 'Sigma Pi Sigma Symposium 2024: Hunting for Dark Matter with LDMX',
+          description: "Survey of LDMX work for the Sigma Pi Sigma undergraduate research symposium. This talk won best oral presentation!",
+          section: "Presentations",handler: () => {
+              window.location.href = "/presentations/sps_24/";
+            },},{id: "presentations-vas-2025-toward-a-voltage-tunable-laser-frequency-lock-using-rydberg-eit-spectroscopy-in-a-rubidium-cell",
+          title: 'VAS 2025: Toward a Voltage Tunable Laser Frequency Lock Using Rydberg EIT Spectroscopy...',
+          description: "Poster overview of my work with the ultrafast laser group",
+          section: "Presentations",handler: () => {
+              window.location.href = "/presentations/vas_25/";
+            },},{id: "presentations-sesaps-2025-gnn-semantic-segmentation-of-neutrino-interactions-in-dune-s-tms",
+          title: 'SESAPS 2025: GNN Semantic Segmentation of neutrino interactions in DUNE’s TMS',
+          description: "Talk presenting results from my DUNE SULI work",
+          section: "Presentations",handler: () => {
+              window.location.href = "/presentations/sesaps_25/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
