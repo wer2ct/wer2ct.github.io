@@ -4,5 +4,5 @@ title: "VAS 2025: Toward a Voltage Tunable Laser Frequency Lock Using Rydberg EI
 description: "Poster overview of my work with the ultrafast laser group"
 date: 2025-05-22
 venue: "University of Virginia"
-slides: "/assets/pdf/VAS_25_Wall.pdf"
+poster: "/assets/pdf/VAS_25_Wall.pdf"
 ---
