@@ -164,6 +164,8 @@ collections:
     output: true
   teachings:
     output: true
+  presentations:
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
