@@ -23,6 +23,8 @@ Soon!
 
 <hr class="mt-3">
 
+Some LDMX presentations contain work-in-progress. Plots of this sort are generally marked, and presentations are collaboration-approved. All that said, please reach out before using or reproducing any material to get full context for any plots or results!
+
 {% assign sorted_talks = site.presentations | sort: "date" | reverse %}
 
 <ul>
