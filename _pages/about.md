@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Incoming Physics PhD Student @ MIT
+subtitle: Incoming Physics PhD Student at MIT
 
 profile:
   align: right
