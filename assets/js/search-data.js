@@ -74,6 +74,11 @@ ninja.data = [{
           description: "Talk presenting results from my DUNE SULI work",
           section: "Presentations",handler: () => {
               window.location.href = "/presentations/sesaps_25/";
+            },},{id: "presentations-new-channels-and-deep-learning-broadening-ldmx-39-s-dark-matter-search",
+          title: 'New Channels and Deep Learning: Broadening LDMX&amp;#39;s Dark Matter Search',
+          description: "Introduction to the ECal-as-Target LLPs search and GNN methods for background rejection.",
+          section: "Presentations",handler: () => {
+              window.location.href = "/presentations/VAS_26/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
