@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Incoming Physics PhD Student at MIT
+subtitle: Physics PhD Student at MIT
 
 profile:
   align: right
@@ -24,7 +24,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am an incoming [Dean of Science Fellow](https://science.mit.edu/about/awards/deans-fellowship-program/) at [MIT](https://physics.mit.edu/), where I will be pursuing a PhD in Physics. My research is also supported through the [NSF's Graduate Research Fellowship Program](https://www.nsfgrfp.org/). 
+I am a [Dean of Science Fellow](https://science.mit.edu/about/awards/deans-fellowship-program/) at [MIT](https://physics.mit.edu/), where I am pursuing a PhD in Physics. My research is also supported through the [NSF's Graduate Research Fellowship Program](https://www.nsfgrfp.org/). 
 
 My interests are concentrated in experimental particle physics, particularly non-collider searches for dark matter and new physics involving neutrinos. As an undergraduate at the University of Virginia I contributed to [Mu2e](https://mu2e.fnal.gov/), [LDMX](https://arxiv.org/pdf/2508.11833), and [DUNE](https://www.dunescience.org/). I also worked for a semester in an AMO lab - ask me about Rydberg atoms and precision measurement! Although my research home as an undergrad was UVa, I spent a lot of time at Stanford/SLAC as an intern and visiting student on various projects. You can find more details about my work on all these under the research tab, as well as a full list of my publications and presentations. 
 
